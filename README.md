@@ -2,6 +2,8 @@
 
 This example application demonstrates the usage of the Chroma-Zig library, which provides flexible and dynamic string formatting with ANSI color codes. It showcases how to integrate Chroma-Zig into a Zig project to produce colorful terminal output.
 
+![Use-Chroma Example](./assets/chroma.png)
+
 ## Overview
 
 Use-Chroma leverages the Chroma-Zig library to format strings with various ANSI colors, ANSI 256 extended colors, and true color (24-bit) formats. This application serves as a practical example of how to use Chroma-Zig in your own Zig projects.
